@@ -39,4 +39,4 @@ In this repo i used:
   - curl form countries service to airport ===> works
   - curl form countries service to airport ===> works
 
-![manifest](screenshoots/screenshoots/accessPodsFromEc2InTheSameVPC.png)
+![manifest](screenshoots/accessPodsFromEc2InTheSameVPC.png)
