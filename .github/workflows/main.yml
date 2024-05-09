@@ -54,4 +54,4 @@
           sed -i 's|TAG|'"${IMAGE_TAG}"'|g' helm-deploy/values.yaml && \
           cd helm-deploy && \
           helm package .  && \
-          helm upgrade -i airport ./countries-service-0.1.0.tgz -n helm 
+          helm upgrade -i country ./countries-service-0.1.0.tgz -n helm 
